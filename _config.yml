@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "DevFest Cádiz 2019"
 email: "contacto@eliezerlopez.com"
-description: "GDG DevFest is a set of events all around the world"
+description: "DevFest, por y para la comunidad"
 baseurl: "/DevFestCadiz-2019"
 url: "https://eliezerlopez.github.io"
 permalink: "/blog/:title"
