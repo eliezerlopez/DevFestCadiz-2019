@@ -56,15 +56,15 @@ navigationLinks:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "DevFest <typeout> 2019"
-eventDate: "25 Octubre 2019"
-typeoutTextValues: '"", "Cádiz"'
+eventDate: "25 de Octubre de 2019"
+typeoutTextValues: '"d", "Cádiz"'
 typeoutFallback: "Cádiz"
 # heroButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-# aboutTitle: "About GDG DevFest"
+aboutTitle: "Pronto más info..."
 # aboutBlock:
 #  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
 #  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
