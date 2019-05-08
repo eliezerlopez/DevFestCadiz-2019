@@ -57,7 +57,7 @@ navigationLinks:
 heroImage: "hero.jpg"
 heroTitle: "DevFest <typeout> 2019"
 eventDate: "25 de Octubre de 2019"
-typeoutTextValues: '"d", "Cádiz"'
+typeoutTextValues: '"", "Cádiz"'
 typeoutFallback: "Cádiz"
 # heroButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
