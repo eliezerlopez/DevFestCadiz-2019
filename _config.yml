@@ -59,7 +59,7 @@ heroTitle: "DevFest <typeout> 2019"
 eventDate: "25 de Octubre de 2019"
 typeoutTextValues: '"", "Cádiz"'
 typeoutFallback: "Cádiz"
-# heroButtons:
+heroButtons:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 #  - {permalink: "/#tickets", text: "Buy tickets"}
 
