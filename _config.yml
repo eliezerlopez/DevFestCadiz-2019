@@ -64,7 +64,7 @@ typeoutFallback: "Cádiz"
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "Pronto más info..."
+aboutTitle: "Sobre el evento"
 # aboutBlock:
 #  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
 #  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -94,7 +94,7 @@ aboutTitle: "Pronto más info..."
 # eventStreetAddress: "22 Teatral'na St"
 # eventAddressLocality: "Lviv"
 # eventAddressLocalityRegion: "Lvivska"
-# eventPostalCode: "79000"
+eventPostalCode: "11402"
 # eventAddressCountry: "Ukraine"
 # eventStartTime: "2014-10-25T10:00"
 # eventDoorTime: "09:00"
@@ -130,11 +130,11 @@ aboutTitle: "Pronto más info..."
 # subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-# ticketsTitle: "Pricetable"
+ticketsTitle: "Precios"
 # ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
-# ticketsOffers:
-#  -
-#   name: "Early Bird"
+ticketsOffers:
+  -
+  name: "Early Bird"
 #   price: "350"
 #   priceCurrency: "UAH"
 #   ticketsNumber: "150"
@@ -157,8 +157,8 @@ aboutTitle: "Pronto más info..."
 #   validFrom: "2014-10-01T00:00"
 #   validThrough: "2014-10-23T23:59"
 #   disabled: true
-#  -
-#   name: "Student"
+  -
+  name: "Student"
 #   price: "200"
 #   priceCurrency: "UAH"
 #   ticketsNumber: "50"
@@ -176,7 +176,7 @@ socialLinks:
 #  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=GDGCadiz", icon: "twitter"}
 #  - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
-#  - {permalink: "/feed.xml", icon: "rss"}
+ - {permalink: "/feed.xml", icon: "rss"}
 # footerBlocks:
 #  -
 #   title: "Links"
