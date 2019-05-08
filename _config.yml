@@ -8,7 +8,6 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-
 # Site Settings
 title: "DevFest Cádiz 2019"
 email: "contacto@eliezerlopez.com"
@@ -18,10 +17,10 @@ url: "https://eliezerlopez.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+# siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-# organizerName: "GDG Cádiz"
+organizerName: "GDG Cádiz"
 # organizerAlternateName: "Google Developer Group Cádiz"
 # organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 # organizerEmail: "contacto@eliezerlopez.com"
@@ -29,8 +28,8 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-# metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-# twitterAccount: "@DevFest"
+# metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, cadiz"
+twitterAccount: "@GDGCadiz"
 # socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 # socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 # socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -41,8 +40,8 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 
 # Navigation
-# navigationLinks:
-#  - {permalink: "/", text: "Inicio"}
+navigationLinks:
+ - {permalink: "/", text: "Inicio"}
 #  - {permalink: "/blog/", text: "Blog"}
 #  - {permalink: "/schedule/", text: "Schedule"}
 #  - {permalink: "/speakers/", text: "Speakers"}
@@ -55,11 +54,11 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-# heroImage: "hero.jpg"
+heroImage: "hero.jpg"
 heroTitle: "DevFest <typeout> 2019"
-# eventDate: "25 Octubre 2019"
-# typeoutTextValues: '"", "Cádiz"'
-# typeoutFallback: "Cádiz"
+eventDate: "25 de Octubre de 2019"
+typeoutTextValues: '"", "Cádiz"'
+typeoutFallback: "Cádiz"
 # heroButtons:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 #  - {permalink: "/#tickets", text: "Buy tickets"}
@@ -116,7 +115,7 @@ heroTitle: "DevFest <typeout> 2019"
 # Tweets Feed Block
 # tweetsFeedImage: "twitter-feed.jpg"
 # tweetsFeedTitle: "What's Up?"
-# twitterHashTag: "devfest"
+# twitterHashTag: "devfestCadiz"
 # twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -173,9 +172,9 @@ heroTitle: "DevFest <typeout> 2019"
 #   soldOutText: "Sold Out"
 
 # Footer
-# socialLinks:
+socialLinks:
 #  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
-#  - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+ - {link: "https://twitter.com/intent/user?screen_name=GDGCadiz", icon: "twitter"}
 #  - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
 #  - {permalink: "/feed.xml", icon: "rss"}
 # footerBlocks:
