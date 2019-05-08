@@ -60,8 +60,8 @@ eventDate: "25 de Octubre de 2019"
 typeoutTextValues: '"", "Cádiz"'
 typeoutFallback: "Cádiz"
 heroButtons:
-#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-#  - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 # aboutTitle: "About GDG DevFest"
