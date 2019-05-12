@@ -29,11 +29,11 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://gdgcadiz.com/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+metaKeywords: "event, gdg, devfest, google, programacion, android, chrome, developers, cadiz"
+twitterAccount: "@GDGCadiz"
+#socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+#socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://bit.ly/dfua-c4p"
