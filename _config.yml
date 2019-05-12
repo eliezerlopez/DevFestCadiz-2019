@@ -1,6 +1,6 @@
 # Plugins
 gems:
- - jekyll-sitemap
+- jekyll-sitemap
 safe: false
 
 # Build Settings
@@ -57,7 +57,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "DevFest <typeout> 2019"
 eventDate: "25 de Octubre de 2019"
-typeoutTextValues: '"","Cádiz"'
+typeoutTextValues: '"", "Cádiz"'
 typeoutFallback: "Cádiz"
 # heroButtons:
 - {link: "https://www.meetup.com/es-ES/gdgcadiz/", text: "Únete a la comunidad"}
