@@ -23,12 +23,12 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "GDG Cádiz"
 organizerAlternateName: "Google Developer Group Cádiz"
 organizerDescription: "Comunidad de desarrolladores de software enfocados en promover el software en particular, y la tecnología en general, en toda la provincia de Cádiz."
-# organizerEmail: "contacto@eliezerlopez.com"
-# organizerLogo: "/img/seo/organizer-logo.png"
+organizerEmail: "contacto@eliezerlopez.com"
+organizerLogo: "/img/seo/organizer-logo.png"
 # organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-# metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, cadiz"
+metaKeywords: "evento, gdg, devfest, google, programacion, android, chrome, developers, cadiz"
 twitterAccount: "@GDGCadiz"
 # socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 # socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -57,7 +57,7 @@ navigationLinks:
 heroImage: "hero.jpg"
 heroTitle: "DevFest <typeout> 2019"
 eventDate: "25 de Octubre de 2019"
-typeoutTextValues: '"", "Cádiz"'
+typeoutTextValues: '"Cádiz"'
 typeoutFallback: "Cádiz"
 # heroButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -92,10 +92,10 @@ aboutTitle: "Sobre el evento"
 # eventLocationName: "Conference Hall"
 # eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
 # eventStreetAddress: "22 Teatral'na St"
-# eventAddressLocality: "Lviv"
-# eventAddressLocalityRegion: "Lvivska"
+eventAddressLocality: "Jerez de la Frontera"
+eventAddressLocalityRegion: "(Cádiz)"
 eventPostalCode: "11402"
-# eventAddressCountry: "Ukraine"
+eventAddressCountry: "España"
 # eventStartTime: "2014-10-25T10:00"
 # eventDoorTime: "09:00"
 # eventEndTime: "2014-10-25T20:00"
@@ -119,8 +119,8 @@ eventPostalCode: "11402"
 # twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-# organizersTitle: "Organizers"
-# partnersTitle: "Partners"
+organizersTitle: "Organizadores"
+partnersTitle: "Patrocinadores"
 # partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
