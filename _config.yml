@@ -104,7 +104,7 @@ eventAddressCountry: "España"
 # mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
-# venueBlockTitle: "Venue"
+venueBlockTitle: "Lugar del encuentro"
 # venueBigImage: "venue_0.jpg"
 # venueSmallImage1: "venue_1.jpg"
 # venueSmallImage2: "venue_2.jpg"
@@ -178,13 +178,13 @@ socialLinks:
 #  - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 # footerBlocks:
-#  -
-#   title: "Links"
+# -
+#  title: "Enlaces"
 #   links:
 #    - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
 #    - {link: "https://developers.google.com", text: "Google Developers"}
 #  -
-#   title: "Contacts"
+#   title: "Contacto"
 #   links:
 #    - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
 #  -
