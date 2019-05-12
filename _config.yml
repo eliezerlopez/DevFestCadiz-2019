@@ -21,8 +21,8 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "GDG Cádiz"
-# organizerAlternateName: "Google Developer Group Cádiz"
-# organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerAlternateName: "Google Developer Group Cádiz"
+organizerDescription: "Comunidad de desarrolladores de software enfocados en promover el software en particular, y la tecnología en general, en toda la provincia de Cádiz."
 # organizerEmail: "contacto@eliezerlopez.com"
 # organizerLogo: "/img/seo/organizer-logo.png"
 # organizerLink: "http://lviv.gdg.org.ua/"
@@ -157,8 +157,8 @@ ticketsOffers:
 #   validFrom: "2014-10-01T00:00"
 #   validThrough: "2014-10-23T23:59"
 #   disabled: true
-  -
-  name: "Student"
+#  -
+#  name: "Student"
 #   price: "200"
 #   priceCurrency: "UAH"
 #   ticketsNumber: "50"
