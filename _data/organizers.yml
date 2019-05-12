@@ -1,7 +1,7 @@
 - 
   group: ""
   elements: 
-    - {name: "GDG Cádiz", description: "Promoviendo el desarrollo de software en Cádiz", link: "https://www.meetup.com/es-ES/gdgcadiz/", imageUrl: "gdgcadiz.png"}
+    - {name: "GDG Cádiz", description: "Promoviendo el desarrollo de software en Cádiz", link: "https://www.meetup.com/es-ES/gdgcadiz/", imageUrl: "gdg-lviv.png"}
 #- 
 #  group: "Co-organizers"
 #  elements: 
