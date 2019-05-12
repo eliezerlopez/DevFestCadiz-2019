@@ -1,6 +1,6 @@
 # Plugins
 gems:
-- jekyll-sitemap
+ - jekyll-sitemap
 safe: false
 
 # Build Settings
@@ -121,7 +121,7 @@ venueBlockTitle: "Lugar del encuentro"
 # Partners Block
 organizersTitle: "Organizadores"
 partnersTitle: "Patrocinadores"
-# partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "Conviértete en patrocinador!"
 
 # Subscribe Block
 # subscribeImage: "subscribe.jpg"
