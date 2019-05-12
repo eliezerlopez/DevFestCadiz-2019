@@ -133,8 +133,8 @@ eventPostalCode: "11402"
 ticketsTitle: "Precios"
 # ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
-  -
-  name: "Early Bird"
+#    -
+#       name: "Early Bird"
 #   price: "350"
 #   priceCurrency: "UAH"
 #   ticketsNumber: "150"
