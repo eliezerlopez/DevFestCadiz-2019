@@ -68,8 +68,8 @@ heroButtons:
 aboutTitle: "El formato DevFest"
 aboutBlock:
  - {title: "Conferencia", image: "conference.jpg", text: "DevFest es un formato de evento promovido por Google para potenciar la tecnologia en general, y el desarrollo de software en particular" }
- - {title: "Workshops", image: "workshop.jpg", text: "Día completo de charlas, talleres y mucho más!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Lo mejor de los eventos tecnologicos son sus asistentes. Aprovecha, haz networking y conoce a gente" }
+ - {title: "Tecnologia", image: "workshop.jpg", text: "Dīa completo de charlas, talleres y mucho más! Aprende sobre frontend y backend, en un evento con ponentes top" }
+ - {title: "Networking", image: "hackathon.jpg", text: "Lo mejor de los eventos tecnologicos son sus asistentes. Amplia tu red de contactos" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
