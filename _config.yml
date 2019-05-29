@@ -67,9 +67,9 @@ heroButtons:
 # About Block
 aboutTitle: "El formato DevFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conferencia", image: "conference.jpg", text: "DevFest es un formato de evento promovido por Google para potenciar la tecnologia en general, y el desarrollo de software en particular" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Día completo de charlas, talleres y mucho más!" }
+ - {title: "Hackathon", image: "hackathon.jpg", text: "Lo mejor de los eventos tecnologicos son sus asistentes. Aprovecha, haz networking y conoce a gente" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -185,13 +185,13 @@ footerBlocks:
    - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "Contacts"
+  title: "Contacto"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:contacto@eliezerlopez.com", text: "contacto@eliezerlopez.com"}
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Código de conducta"}
 
 # Blog
 blogTitle: "Latest news"
